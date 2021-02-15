@@ -1,0 +1,19 @@
+@import 'header';
+@import 'fonts';
+@import 'main-banner';
+@import 'main-content';
+@import 'mob-header';
+
+body{
+    width: 100%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+*{
+    margin: 0;
+}
